@@ -46,8 +46,6 @@ A full-stack web application that helps job seekers compare their resumes with j
 ### Screenshot 3
 ![Application Screenshot 3](screenshots/Screenshot%202026-10-17%20161649.png)
 
-### Screenshot 4
-![Application Screenshot 4](screenshots/Screenshot%202026-10-17%20162431.png)
 
 
 
