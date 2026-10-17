@@ -35,6 +35,22 @@ A full-stack web application that helps job seekers compare their resumes with j
 7. Results are displayed through the React frontend.
 
 
+## Application Screenshots
+
+### Screenshot 1
+![Application Screenshot 1](screenshots/Screenshot%202026-10-17%20161636.png)
+
+### Screenshot 2
+![Application Screenshot 2](screenshots/Screenshot%202026-10-17%20161645.png)
+
+### Screenshot 3
+![Application Screenshot 3](screenshots/Screenshot%202026-10-17%20161649.png)
+
+### Screenshot 4
+![Application Screenshot 4](screenshots/Screenshot%202026-10-17%20162431.png)
+
+
+
 
 ## Installation and Setup
 
